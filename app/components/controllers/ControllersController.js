@@ -5,4 +5,5 @@ app.controller('ControllersController', ControllersController);
 
 function ControllersController(){
 	this.controllersStatus = 'Working';
+    
 }
